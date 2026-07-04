@@ -2,8 +2,6 @@
 
 Assignment submissions for the Generative Deep Learning course, Master's degree in Computer Science.
 
----
-
 ## Assignment 1 — Gaussian Mixture Model & EM Algorithm
 Implement a Gaussian Mixture Model (GMM) from scratch using only NumPy, trained with the Expectation-Maximization (EM) algorithm (diagonal covariance assumed).
 
